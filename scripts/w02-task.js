@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Jeffrey Castellanos';
 let currentYear =new Date().getFullYear();
-let  profilePicture = 'w02-task/images/jeff_face.jpg';
+let  profilePicture = 'images/jeff_face.jpg';
 let favoriteFoodList = ['Pizza', 'Hamburgers', 'Fried Chiken', 'Bacon' ]
 let ul = `<ul>${favoriteFoodList.map(food => `<li>${food}</li>`).join('')}</ul>`
 /* Step 3 - Element Variables */

@@ -29,6 +29,11 @@ body {
     background-color: #f9f9f9;
   }
   
+  #author {
+    margin-top: 10px;
+    color: #666;
+  }
+  
   #generate-btn {
     background-color: #007bff;
     color: #fff;
@@ -42,4 +47,5 @@ body {
   #generate-btn:hover {
     background-color: #0056b3;
   }
+  
   
